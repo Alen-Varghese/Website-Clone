@@ -1,14 +1,14 @@
-Website Clonning of Humankind.art
+Website Cloning of Humankind.art
 
 Humankind.art is a website that showcases contemporary art from around the world. It provides a platform for artists to display their works and for art lovers to discover and purchase unique pieces. This website also features interviews with artists and curators, as well as news and updates on art-related events and exhibitions.
 
-Frontend: HTML, TailwindCSS, Javascript, ReactJs
+Frontend: HTML, Tailwind CSS, JavaScript, ReactJs
 
 To Run the Code
-1) Install Node.js on your Computer
-2) Create the app using this command - npx create-react-app webiste-clone (OR if you are in the same directory use this - npx create-react-app .)
-3) Install TailwindCSS using the command - npm install -D tailwindcss
-4) To run the website use this command - npm start
+1.	Install Node.js on your Computer.
+2.	Create the app using this command - npx create-react-app website-clone (OR if you are in the same directory use this - npx create-react-app . )
+3.	Install Tailwind CSS using the command - npm install -D tailwindcss
+4.	To run the website, use this command - npm start
 
 Image Of the Website
 
