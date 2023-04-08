@@ -1,6 +1,16 @@
 .App {
   text-align: center;
 }
+.bg-img {
+  background-image: 
+  url(
+    "https://w0.peakpx.com/wallpaper/625/927/HD-wallpaper-white-geo-2-i1080-abstract-geometric-gray-light-vertical-thumbnail.jpg");
+  background-size: "cover";
+  height: 130vh;
+  margin-top: -70px;
+  font-size:30px;
+  background-repeat:repeat; 
+}
 
 .App-logo {
   height: 40vmin;
