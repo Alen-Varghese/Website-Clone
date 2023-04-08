@@ -12,7 +12,7 @@ To Run the Code
 
 Image Of the Website
 
-![Web capture_8-4-2023_16301_localhost](https://user-images.githubusercontent.com/113363294/230718732-887af7e9-deab-4e48-a5c2-576d4c8ee2a1.jpeg)
+![Web capture_8-4-2023_17523_localhost](https://user-images.githubusercontent.com/113363294/230720811-d014871a-87e6-41d5-a684-7a9f82f1abdb.jpeg)
 
 Working Video of the Website
 
